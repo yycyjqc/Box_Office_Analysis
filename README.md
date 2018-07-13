@@ -11,7 +11,6 @@
   <a href="#findings">Findings</a> •
   <a href="#limitations">Limitations</a> •
   <a href="#technology-stack-used">Technology Stack Used</a> •
-<a href="#limitations">Limitations</a> •
 <a href="#next-steps">Next Steps</a>
 </p>
 
@@ -54,19 +53,19 @@ The questions we are trying to answer are:
 ## Data Source
 <img src="https://pbs.twimg.com/media/C4PrQIzUcAAPwFx.jpg" width="300" height="150"/>
 
-Founded in 1999, Box Office Mojo tracks box office revenue in a systematic, algorithmic  way, and publishes the data on its website. In 2008 IMDb , owned by Amazon, purchased Box Office Mojo. The website is widely used within the film industry as a source of data. From 2002–11, Box Office Mojo maintained popular forums on its website.
+>Founded in 1999, Box Office Mojo tracks box office revenue in a systematic, algorithmic  way, and publishes the data on its website. In 2008 IMDb , owned by Amazon, purchased Box Office Mojo. The website is widely used within the film industry as a source of data. From 2002–11, Box Office Mojo maintained popular forums on its website.
 
 
 ###
 [![Rottentomatoesnewlogo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rottentomatoesnewlogo.svg/250px-Rottentomatoesnewlogo.svg.png)](https://en.wikipedia.org/wiki/File:Rottentomatoesnewlogo.svg)
 
-Rotten Tomatoes  is an American  review-aggregation website  for film and television. The company was launched in August 1998 by three undergraduate students at the  University of California, Berkeley  Senh Duong, Patrick Y. Lee and Stephen Wang The name "Rotten Tomatoes" derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance.
+>Rotten Tomatoes  is an American  review-aggregation website  for film and television. The company was launched in August 1998 by three undergraduate students at the  University of California, Berkeley  Senh Duong, Patrick Y. Lee and Stephen Wang The name "Rotten Tomatoes" derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance.
 
 ###
 
 <img src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/OMDb%20API.png?itok=9pgYjYe1" width="300" height="150"/>
 
-The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. 
+>The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. 
 
 
 ## Process 
@@ -95,7 +94,7 @@ The biggest challenge is the time constraint, if given more time, we will be abl
 
 The second limitation is the amount of data we have, if we could have access to their investment into the movies, we can perform some other interesting analysis 
 
-# Technology Stack Used
+## Technology Stack Used
 
 -   SQL
 -   Python
