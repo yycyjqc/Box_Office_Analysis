@@ -3,7 +3,7 @@
 ![alt text](http://www.mormontransitions.org/wp-content/uploads/2015/12/Movie-making4.jpg)
 
 <p align="center">
-  <a href="#datavengers- members">DatAvengers Members</a> •
+  <a href="#datavengers- members">Members</a> •
   <a href="#background">Background</a> •
   <a href="#proposal">Proposal</a> •
   <a href="#data-source">Data Source</a> •
