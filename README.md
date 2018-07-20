@@ -1,4 +1,12 @@
-# Hollywood Studio Performance Analysis
+![built with D3](https://img.shields.io/badge/built%20with-D3-yellow.svg)![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
+
+<h1 align="center"> Hollywood Studio Performance Analysis </h1>
+
+<p align="center"> Studios Performance in Past Two Decades </p>
+
+<div align="center">
+🎥
+</div>
 
 ![alt text](http://www.mormontransitions.org/wp-content/uploads/2015/12/Movie-making4.jpg)
 
